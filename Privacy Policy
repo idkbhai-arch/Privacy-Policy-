@@ -1,0 +1,29 @@
+**Privacy Policy for JUNO**   
+
+Thank you for using **JUNO**. We are committed to protecting your privacy and ensuring a secure experience. This Privacy Policy outlines how JUNO handles user data.  
+
+### 1. **Data Collection & Usage**  
+- **No Personal Data Storage:**  
+  JUNO does **not** collect, store, or share any personal information from users. No sensitive data such as usernames, messages, or personal identifiers is stored.  
+
+- **Automoderation (Anti-Link) Feature:**  
+  When the **Anti-Link** automoderation feature is enabled on a server, JUNO securely logs the following information **only when a user is punished**:  
+  - **User ID** of the member who triggered the automod.  
+  - Details of the **punishment** applied (e.g., mute, kick, ban).  
+
+  This data is stored in a **JSON file** and used exclusively for server moderation purposes.  
+
+### 2. **Data Storage & Security**  
+- All moderation data is securely stored in a **GitHub repository**.  
+- The repository is protected against unauthorized access to ensure data safety and integrity.  
+- No external parties have access to this data.  
+
+### 3. **User Rights & Control**  
+- **Transparency:** Server owners and administrators control the activation of the Anti-Link feature.  
+- **Data Removal:** If the automod feature is disabled or JUNO is removed from a server, all stored data can be deleted upon request.  
+
+### 4. **Third-Party Sharing**  
+JUNO does **not** share, sell, or distribute any user data to third parties under any circumstances.  
+
+### 5. **Policy Updates**  
+We reserve the right to update this Privacy Policy as needed. Users will be notified of significant changes. Continued use of JUNO implies acceptance of the updated terms.
